@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GDAO"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "The GDAO(G* Data Access Object) provides an abstract interface to CoreData and can be extend to support other persistence mechanism."
 
   # This description is used to generate tags and improve search results.
@@ -57,9 +57,7 @@ As a bonus it contains JSON to CoreData parser, this parser cand be extend to su
   #  profile URL.
   #
 
-  s.author             = { "Voda Ion" => "" }
-  # Or just: s.author    = "Voda Ion"
-  # s.authors            = { "Voda Ion" => "" }
+  s.author             = { 'vodaion' => 'vanea.voda@gmail.com' }
   s.social_media_url   = "http://twitter.com/vodaion"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
