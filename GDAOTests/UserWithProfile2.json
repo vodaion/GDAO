@@ -1,0 +1,32 @@
+{
+    "id": 123,
+    "name": "John Doe",
+    "email": "john_doe@mail.com",
+    "profileSet": [
+        {
+            "id": 1236,
+            "name": "BRD_Profile",
+            "type": 1
+        },
+        {
+            "id": 1237,
+            "name": "BCR_Profile",
+            "type": 0
+        },
+        {
+            "id": 1238,
+            "name": "OTP_Profile",
+            "type": 1
+        },
+        {
+            "id": 1239,
+            "name": "BRD_Profile",
+            "type": 1
+        },
+        {
+            "id": 1240,
+            "name": "BRD_Profile",
+            "type": 1
+        }
+    ]
+}

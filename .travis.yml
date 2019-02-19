@@ -1,0 +1,7 @@
+os: osx
+osx_image: xcode10
+podfile: Podfile
+language: swift
+xcode_workspace: GDAO.xcworkspace # path to your xcodeproj folder
+xcode_scheme: GDAO
+xcode_destination: platform=iOS Simulator,OS=12.0,name=iPad Pro (9.7-inch)
