@@ -68,7 +68,8 @@ As a bonus it contains JSON to CoreData parser, this parser cand be extend to su
 
   s.platform     = :ios
   s.swift_version = '4.2'
-
+  s.ios.deployment_target = '11.0'
+  
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
   # s.osx.deployment_target = "10.7"
