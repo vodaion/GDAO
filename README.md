@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/vadeara/GDAO.svg?branch=master)](https://travis-ci.org/vodaion/GDAO)
+[![Build Status](https://travis-ci.org/vodaion/GDAO.svg?branch=master)](https://travis-ci.org/vodaion/GDAO)
 [![Version](https://img.shields.io/cocoapods/v/GDAO.svg?style=flat)](http://cocoapods.org/pods/GDAO)
 [![License](https://img.shields.io/cocoapods/l/GDAO.svg?style=flat)](http://cocoapods.org/pods/GDAO)
 [![Platform](https://img.shields.io/cocoapods/p/GDAO.svg?style=flat)](http://cocoapods.org/pods/GDAO)
